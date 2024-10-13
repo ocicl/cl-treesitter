@@ -4,6 +4,6 @@ libtree-sitter bindings for Common Lisp
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/garlic0x1/cl-treesitter.git |
-| commit  | e034b89                                            |
+| commit  | 7bd73ce                                            |
 | systems | cl-treesitter                                      |
 |---------+----------------------------------------------------|
